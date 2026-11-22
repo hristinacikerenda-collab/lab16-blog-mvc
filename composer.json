@@ -1,4 +1,6 @@
 {
     "name": "acer/blog_mvc",
-    "require": {}
+    "require": {
+        "erusev/parsedown": "^1.8"
+    }
 }
